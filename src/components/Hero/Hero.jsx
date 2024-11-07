@@ -37,7 +37,7 @@ const Hero = () => {
           <div className="relative">
             <div className="glass-card p-8 rounded-2xl relative z-10">
               <img
-                src="/api/placeholder/600/400"
+                src="/cardioHero.png"
                 alt="Medical Team"
                 className="rounded-xl"
               />
